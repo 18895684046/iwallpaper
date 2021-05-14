@@ -1,5 +1,7 @@
 # iwallpaper
 
+修改unsplashReq.js里面的_accessKey为你在unsplash.com注册成为开发者获取到的key
+
 > An electron-vue project
 
 #### Build Setup
