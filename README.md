@@ -18,6 +18,12 @@ npm run build
 
 
 ```
+### 截图
+
+<img width="750" alt="微信截图_20210520101033" src="https://user-images.githubusercontent.com/16317799/118908444-0cea3880-b954-11eb-8461-cf8c67cb12b9.png">
+<img width="752" alt="微信截图_20210520101049" src="https://user-images.githubusercontent.com/16317799/118908466-12e01980-b954-11eb-9dd3-e018d4918320.png">
+<img width="753" alt="微信截图_20210520101120" src="https://user-images.githubusercontent.com/16317799/118908482-18d5fa80-b954-11eb-8b56-107da3f3b7a8.png">
+<img width="753" alt="微信截图_20210520101132" src="https://user-images.githubusercontent.com/16317799/118908489-1bd0eb00-b954-11eb-8039-6c40dc281d8f.png">
 
 ---
 
