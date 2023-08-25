@@ -80,7 +80,7 @@ async function search(keywords){
 function getAdd(fileURL){
     let fs = require('fs');
     let request = require('request')
-    let path = "C:\\Users\\Administrator\\Pictures\\wallpaper\\"
+    let path = "D:\\pictures\\wallpaper\\"
     if(!fs.existsSync(path)){ 
         fs.mkdirSync(path);
     }
